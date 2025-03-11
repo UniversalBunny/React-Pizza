@@ -1,8 +1,8 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#React Pizza
+Небольшое приложение клон ДоДо пиццы:
+-----------------------------------
+-адаптивная верстка;
+-пагинация;
+-навигация между страницами(главная, корзина с товарами, страница "Not Found") через React Router;
+-шаблоны карточек товара на время загрузки с помощью Content Loader;
+-фильтрация пицц и управление корзиной сделаны с помощью  Redux Toolkit;
